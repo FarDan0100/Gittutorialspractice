@@ -1,5 +1,0 @@
-version 1 of project
-hello world
-hello
-hello
-hello
